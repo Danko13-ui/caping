@@ -15,7 +15,7 @@ git clone https://github.com/futcms/caping.git
 
 cd caping
 
-php runing.php
+php run.php
 
 Isi : Userid/UID:
 
